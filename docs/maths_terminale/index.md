@@ -3,15 +3,16 @@ Bienvenue dans le cours de mathématiques de terminale.
 
 ## Cahier de texte
 
-## Vendredi 5 Novembre : CH5_Géométrie
+## Vendredi 6 Novembre : CH5_Géométrie
 
 
 ## Jeudi 5 Novembre : 
-P5 puis Pb1 et 2 page 22 et Sujet de BAc B1_B2_B3 ...
+
 
 ## Mercredi 4 Novembre :
 Fin de P4 et Sujet entrainement. Ex1 Question B5 et Ex 2 Question 6
-**Travail pour le 5 :**  Sujet entrainement la fin
+P5 rapide avec théorème de convergence monotone/
+**Travail pour le 5 :**  Sujet de Bac B1_B2_B3 ...
 
 ## Lundi 2 Novembre :
 reprise de fiche P4 avec correction exercices 114_115 ...

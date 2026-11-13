@@ -4,7 +4,13 @@ Bienvenue dans le cours de mathématiques de terminale.
 ## Cahier de texte
 
 
+### mardi 15 Décembre : DS commun première Spé Maths
 
+### Semaine du 23 au 27 : Prévoir une éval 
+
+### Semaine du 16 au 20 : Les trinômes Variations et représentation graphique puis Optimisation
+
+### Semaine du 9 au 13 : Les trinômes et leur forme canonique
 
 ### VACANCES D'AUTOMNE !!
 
@@ -20,7 +26,8 @@ Représentation graphique de suite.
 
 ### jeudi 01 octobre
 Fiche 4 : représentation graphique d'une suite
-**Travail à faire   : ** : Finir les exercices 
+
+** Travail à faire : Finir les exercices. 
 
 ### mercredi 30 septembre
 Reprise de questions 
@@ -34,7 +41,7 @@ Corrections activité suites et début du cours !
 
 ### mercredi 23 septembre
 Corrections Ex 33-34_35-37 puis Fiche BAC en groupe.
-**Travail à faire   : ** : pour le 24 Activité Suites
+** Travail à faire   : ** : pour le 24 Activité Suites
 
 ### mardi 22 septembre
 Correction Eval et des exerices 23 à 25 et d'autres selon demandes. COURS : Fiche 3
