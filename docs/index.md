@@ -20,6 +20,6 @@
 
     Cours, défis, épreuve pratique et sujets bac.
 
-    [Accéder à la rubrique](nsi/index.md)
+    [Accéder à la rubrique](nsi_premiere/index.md)
 
 </div>

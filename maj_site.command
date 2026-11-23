@@ -10,7 +10,7 @@ set -e  # arrête le script en cas d'erreur
 cd "$(dirname "$0")"
 
 echo "============================================"
-echo " Mise à jour du site NSI"
+echo " Mise à jour du site Fénelon"
 echo "============================================"
 
 # 1. Vérifier qu'on est bien dans le bon dossier
@@ -52,7 +52,7 @@ mkdocs gh-deploy
 # 6. Fin
 echo "============================================"
 echo "✅ Site mis à jour et publié avec succès !"
-echo "🔗 https://CodeFather63.github.io/nsi-premiere"
+echo "🔗 https://CodeFather63.github.io/cours"
 echo "============================================"
 
 read -p "Appuie sur Entrée pour fermer..."
