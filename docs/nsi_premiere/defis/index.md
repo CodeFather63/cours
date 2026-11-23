@@ -1,37 +1,6 @@
-
-
-
-## Défis
-
-<table>
-  <thead>
-    <tr>
-      <th>Sujet</th>
-      <th>Énoncé</th>
-      <th>Correction</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Le Juste Prix</td>
-      <td><a href="sujets/Le Juste Prix.pdf"target="_blank">📄 PDF</a></td>
-      <td><a href="corriges/Le Juste Prix_Corrige.pdf"target="_blank">📄 PDF</a></td>
-    </tr>
-        <tr>
-      <td>Le distributeur</td>
-      <td><a href="sujets/distributeur.pdf" target="_blank">📄 PDF</a></td>
-      <td><a href="sujets/distributeur_version_guidee.pdf" target="_blank">📄 PDF</a></td>
-      <td><a href="corriges/distributeur_corrige.pdf" target="_blank">📄 PDF</a></td>
-    </tr>
-        <tr>
-      <td>Tom Le Robot</td>
-      <td><a href="sujets/Tom Le robot.pdf" target="_blank">📄 PDF</a></td>
-      <td><a href="corriges/Tom Le robot_corrige.pdf" target="_blank">📄 PDF</a></td>
-    </tr>
-       <tr>
-      <td>Jeu des alumettes</td>
-      <td><a href="sujets/jeu_des_allumettes.pdf" target="_blank">📄 PDF</a></td>
-      <td><a href="corriges/jeu_des_allumettes_corrige.pdf" target="_blank">📄 PDF</a></td>
-    </tr>
-  </tbody>
-</table>
+| Défi | Énoncé | Corrigé |
+|------|--------|---------|
+| Le Juste Prix | [📄](<sujets/Le Juste Prix.pdf>) | [✅](<corriges/Le Juste Prix_Corrige.pdf>) |
+| Le distributeur | [📄](sujets/distributeur.pdf) | [✅](corriges/Distributeur_Corrige.pdf) |
+| Tom le Robot | [📄](<sujets/Tom Le robot.pdf>) | [✅](<corriges/Tom Le robot_corrige.pdf>) |
+| Jeu des allumettes | [📄](sujets/jeu_des_allumettes.pdf) | [✅](corriges/jeu_des_allumettes_Corrige.pdf) |
