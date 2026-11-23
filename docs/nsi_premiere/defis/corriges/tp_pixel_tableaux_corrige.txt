@@ -1,4 +1,4 @@
-# TP Pixel (version tableaux) — fichier de départ
+# TP Pixel (version tableaux) — corrigé
 from turtle import *
 
 # ----- les images : UN tableau par image -----
@@ -72,28 +72,96 @@ PALETTE = ["white", "black", "red", "green", "blue", "yellow", "orange", "brown"
 
 # ----- Étape 1 : une ligne en mode texte -----
 def ligne_texte(codes):
-    pass
+    texte = ""
+    noir = False
+    for n in codes:
+        if noir:
+            texte = texte + NOIR * n
+        else:
+            texte = texte + BLANC * n
+        noir = not noir
+    return texte
 
 
 # ----- Étape 2 : une image en mode texte -----
 def afficher(image):
-    pass
+    ligne = []
+    for n in image:
+        if n == -1:
+            print(ligne_texte(ligne))
+            ligne = []
+        else:
+            ligne.append(n)
 
 
 # ----- Étape 4 : dessiner avec Turtle -----
 def pixel(image):
-    pass
+    shape("square")
+    shapesize(TAILLE / 20)
+    penup()
+    speed(0)
+    tracer(0)
+    x = -150
+    y = 150
+    noir = False
+    for n in image:
+        if n == -1:
+            y = y - TAILLE
+            x = -150
+            noir = False
+        else:
+            for i in range(n):
+                if noir:
+                    goto(x, y)
+                    stamp()
+                x = x + TAILLE
+            noir = not noir
+    hideturtle()
+    update()
 
 
-# ----- Étape 5 : en couleur -----
+# ----- Étape 5 : en couleur, avec un tableau de couleurs -----
 def pixel_couleur(image):
-    pass
+    shape("square")
+    shapesize(TAILLE / 20)
+    penup()
+    speed(0)
+    tracer(0)
+    x = -150
+    y = 150
+    for i in range(0, len(image), 2):
+        n = image[i]
+        if n == -1:
+            y = y - TAILLE
+            x = -150
+        else:
+            color(PALETTE[image[i + 1]])
+            for k in range(n):
+                goto(x, y)
+                stamp()
+                x = x + TAILLE
+    hideturtle()
+    update()
 
 
-# ----- Tests : enlève le # devant la ligne que tu veux essayer -----
-# print(ligne_texte([1, 3, 1]))
-# afficher(A)
-afficher(TASSE)
-# pixel(TASSE)
-# pixel_couleur(TASSE_COULEUR)
-# exitonclick()
+# ----- Défi ★★★★ : l'encodeur (l'inverse du décodeur) -----
+def coder(pixels):
+    """pixels : tableau de 0 (blanc) et de 1 (noir) ; retourne les codes de la ligne"""
+    codes = []
+    courant = 0
+    longueur = 0
+    for p in pixels:
+        if p == courant:
+            longueur = longueur + 1
+        else:
+            codes.append(longueur)
+            courant = p
+            longueur = 1
+    codes.append(longueur)
+    return codes
+
+
+if __name__ == "__main__":
+    afficher(TASSE)
+    pixel(TASSE)
+    exitonclick()
