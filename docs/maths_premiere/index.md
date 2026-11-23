@@ -6,9 +6,11 @@ Bienvenue dans le cours de mathématiques de terminale.
 
 ### mardi 15 Décembre : DS commun première Spé Maths
 
-### Semaine du 23 au 27 : Prévoir une éval 
 
-### Semaine du 16 au 20 : Les trinômes Variations et représentation graphique puis Optimisation
+
+### mardi 24 Novembre : Fin de la représentation graphique et Optimisation
+
+### Semaine du 16 au 20 : Les trinômes Variations et représentation graphique
 
 ### Semaine du 9 au 13 : Les trinômes et leur forme canonique
 

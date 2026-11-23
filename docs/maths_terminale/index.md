@@ -3,7 +3,14 @@ Bienvenue dans le cours de mathématiques de terminale.
 
 ## Cahier de texte
 
-## Vendredi 6 Novembre : CH5_Géométrie
+
+##vendredi 27 Novembre :
+
+## jeudi 26 Novembre :
+
+## mardi 25 Décembre : Correction Etape 4 par les élèves au tableau. 
+
+## Vendredi 6 Novembre au mercredi 25 Novembre  : CH5_Géométrie Partie A
 
 
 ## Jeudi 5 Novembre : 
