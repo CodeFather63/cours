@@ -1,5 +1,5 @@
-| Chapitre | Introduction | Activités | Cours | Exercices | QCM | Évaluations anciennes | Évaluation 2026/2027 |
-|----------|--------------|-----------|-------|-----------|-----|------------------------|------------------------|
+| Chapitre | Introduction | Activités | Cours | Exercices | QCM | Évaluations            |
+|----------|--------------|-----------|-------|-----------|-----|------------------------|
 | CH1 - Au cœur de l'ordinateur | [📖](CH1/Introduction.pdf) | [🧪](CH1/Activités.pdf) | [📘](CH1/Cours.pdf) | [📝](CH1/Exercices.pdf) | [❓](CH1/QCM.pdf) | | |
 | CH2 - Commencer à programmer | [📖](CH2/Introduction.pdf) | [🧪](CH2/Activités.pdf) | [📘](CH2/Cours.pdf) | [📝](CH2/Exercices.pdf) | [❓](CH2/QCM.pdf) | | |
 | CH3 - Un peu d'interaction | [📖](CH3/Introduction.pdf) | [🧪](CH3/Activités.pdf) | [📘](CH3/Cours.pdf) | [📝](CH3/Exercices.pdf) | | | |

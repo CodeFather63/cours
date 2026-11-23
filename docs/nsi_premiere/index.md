@@ -3,8 +3,11 @@
 ## Cahier de texte
 
 
+### Du 5  au 27  Novembre: Les listes 
+TP pixel puis TP Listes
+
 ### vendredi 5 Novembre :
-CH4 : Les types structurés 
+CH4 : Les types structurés  - Les tuples
 
 ### mercredi 4 Novembre : Evaluation types de variables / Boucles / Conditions 
 ** [Entrainements](sujets/2026_2027/Entrainement_Boucles_Variables.pptx)
