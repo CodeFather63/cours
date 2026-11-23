@@ -27,7 +27,7 @@ Correction du distributeur. Activité du chapitre 3 "Un peu d'interraction"
 **Travail pour la semaine prochaine : reprendre un exercice PFC ou distributeur et mettre de l'interraction.
 
 ### vendredi 02 octobre
-Ex 12 à 20 [📘 AIDE](cours/chap02_programmer/exercices/12_25_Guides.pdf)
+Ex 12 à 20
 Puis Ex 25 Guidé
 **Travail pour le 05 : Finir PFC Ex 25 Guidé
 **Travail pour le 09 : Distributeur Guidé ( voir défi)
@@ -55,7 +55,7 @@ Correction des exercices 1 à 9 du cours. DEs difficulté sur la factirielle à 
 
 ### mardi 8 septembre
 Cours Variables - Boucles et fonctions et QCM.
-**Travail pour le 11 :** Exercices 1 à 9 du site [Ici](cours/chap02_programmer/exercices/index.md)
+**Travail pour le 11 :** Exercices 1 à 9 du site [Ici](ressources/CH2/Exercices.pdf)
 
 ### Lundi 7 septembre
 Fin activité turtle et TP ASCII Arts. Point fonctions.
