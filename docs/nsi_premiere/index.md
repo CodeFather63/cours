@@ -2,8 +2,17 @@
 
 ## Cahier de texte
 
+###Vendredi 27 Novembre :
+Finir les TP sur les listes puis continuer avec les : 
+ - Exercice 6 — Zip et Unzip 
+ - Exercice 15 — Cartes à jouer 
+ - Exercice 16 — Calcul de distances 
+ - Exercice 18 — Tester le hasard 
+ - Exercice 20 — Taux d'imposition
+ Et pour finir le TP Sudoku à faire en DM pour les volontaires.
 
-### Du 5  au 27  Novembre: Les listes 
+
+### Du 5  au 20  Novembre: Les listes 
 TP pixel puis TP Listes
 
 ### vendredi 5 Novembre :
